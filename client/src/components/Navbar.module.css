@@ -1,0 +1,45 @@
+.container{
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    align-items: center;
+    width: auto;
+    height: 1.5rem;
+    background-color: #4a5568;
+    font-size: 0.75rem;
+    color: #fff; 
+    border-radius: 0.125rem; 
+}
+span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1.5rem;
+    height: 1.5rem; 
+    background-color: #4a5568;
+}
+ul{
+  display: flex;
+  gap: 6rem;
+}
+.navlink{
+    font-size: 1rem;
+    color: #cbd5e0; 
+    
+}
+.navlink:hover{
+    color: #fff;
+}
+.login_btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #4a5568;
+    font-size: 1rem;
+    color: #fff;
+    padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
